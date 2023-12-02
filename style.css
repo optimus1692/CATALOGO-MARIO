@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+body{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.mario{
+    background-image: url();
+    background-size: 50px 55px;
+    background-position: -5px -11px;
+}
+
+.caja{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-image: linear-gradient(rgb(105, 105, 171), black);
+    overflow: hidden;
+    scale: ;
+}
+
+.piso{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-image: url();
+}
+
+.ladrillo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background:;
+    background-image: url();
+}
+
+.signo{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-image: url();
+}
+.tubo{
+    position: absolute;
+    width: 60px;
+    height: 90px;
+    background-image: url();
+}
